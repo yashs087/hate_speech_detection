@@ -1,2 +1,2 @@
 # hate_speech_detection
-this is a google colab notebook for hate speech detection
+the following google colab notebook helpful for hate speech detection and analysis of various algorithms on the hate dataset.
